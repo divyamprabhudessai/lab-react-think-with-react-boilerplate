@@ -21,7 +21,7 @@ function App() {
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
-        <h1>Hello Kalvium!</h1>
+        <h1>hello Kalvium</h1>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
